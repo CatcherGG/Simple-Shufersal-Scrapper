@@ -1,0 +1,437 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ChainId>7290027600007</ChainId>
+  <SubChainId>001</SubChainId>
+  <StoreId>059</StoreId>
+  <BikoretNo>6</BikoretNo>
+  <DllVerNo>8.0.1.3</DllVerNo>
+  <Promotions Count="12">
+    <Promotion>
+      <PromotionId>1008708</PromotionId>
+      <AllowMultipleDiscounts>1</AllowMultipleDiscounts>
+      <PromotionDescription>2ב 10עוג.סנדוויץ סופר אוז 165</PromotionDescription>
+      <PromotionUpdateDate>2016-02-21 12:00</PromotionUpdateDate>
+      <PromotionStartDate>2016-02-02</PromotionStartDate>
+      <PromotionStartHour>00:00</PromotionStartHour>
+      <PromotionEndDate>2016-02-29</PromotionEndDate>
+      <PromotionEndHour>23:59</PromotionEndHour>
+      <IsWeightedPromo>0</IsWeightedPromo>
+      <MinQty>2.000</MinQty>
+      <RewardType>1</RewardType>
+      <DiscountedPrice>10.00</DiscountedPrice>
+      <MinNoOfItemOfered>10</MinNoOfItemOfered>
+      <PromotionItems Count="1">
+        <Item>
+          <ItemCode>7290015150071</ItemCode>
+          <ItemType>1</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+      </PromotionItems>
+      <AdditionalRestrictions>
+        <AdditionalIsCoupon>0</AdditionalIsCoupon>
+        <AdditionalGiftCount>0</AdditionalGiftCount>
+        <AdditionalIsTotal>0</AdditionalIsTotal>
+        <AdditionalIsActive>1</AdditionalIsActive>
+      </AdditionalRestrictions>
+      <Clubs>
+        <ClubId>0</ClubId>
+      </Clubs>
+    </Promotion>
+    <Promotion>
+      <PromotionId>1018677</PromotionId>
+      <AllowMultipleDiscounts>1</AllowMultipleDiscounts>
+      <PromotionDescription>קטיף-מעדן סלק  2 יחידות ב 15.00 ש"ח</PromotionDescription>
+      <PromotionUpdateDate>2016-02-21 07:40</PromotionUpdateDate>
+      <PromotionStartDate>2016-02-08</PromotionStartDate>
+      <PromotionStartHour>00:00</PromotionStartHour>
+      <PromotionEndDate>2016-02-28</PromotionEndDate>
+      <PromotionEndHour>23:59</PromotionEndHour>
+      <IsWeightedPromo>0</IsWeightedPromo>
+      <MinQty>2.000</MinQty>
+      <RewardType>10</RewardType>
+      <DiscountedPrice>15.00</DiscountedPrice>
+      <MinNoOfItemOfered>10</MinNoOfItemOfered>
+      <PromotionItems Count="4">
+        <Item>
+          <ItemCode>3279370101106</ItemCode>
+          <ItemType>1</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+        <Item>
+          <ItemCode>7296073132820</ItemCode>
+          <ItemType>1</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+        <Item>
+          <ItemCode>8413567021159</ItemCode>
+          <ItemType>1</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+        <Item>
+          <ItemCode>7290003326037</ItemCode>
+          <ItemType>1</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+      </PromotionItems>
+      <AdditionalRestrictions>
+        <AdditionalIsCoupon>0</AdditionalIsCoupon>
+        <AdditionalGiftCount>0</AdditionalGiftCount>
+        <AdditionalIsTotal>0</AdditionalIsTotal>
+        <AdditionalIsActive>1</AdditionalIsActive>
+      </AdditionalRestrictions>
+      <Clubs>
+        <ClubId>0</ClubId>
+      </Clubs>
+    </Promotion>
+    <Promotion>
+      <PromotionId>1023219</PromotionId>
+      <AllowMultipleDiscounts>1</AllowMultipleDiscounts>
+      <PromotionDescription>קטיף-לבבות חסה  ב 7.90 ש"ח ליחידה</PromotionDescription>
+      <PromotionUpdateDate>2016-02-21 07:40</PromotionUpdateDate>
+      <PromotionStartDate>2016-02-21</PromotionStartDate>
+      <PromotionStartHour>00:00</PromotionStartHour>
+      <PromotionEndDate>2016-02-28</PromotionEndDate>
+      <PromotionEndHour>23:59</PromotionEndHour>
+      <IsWeightedPromo>0</IsWeightedPromo>
+      <MinQty>1.000</MinQty>
+      <RewardType>1</RewardType>
+      <DiscountedPrice>7.90</DiscountedPrice>
+      <MinNoOfItemOfered>10</MinNoOfItemOfered>
+      <PromotionItems Count="1">
+        <Item>
+          <ItemCode>7290000979700</ItemCode>
+          <ItemType>0</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+      </PromotionItems>
+      <AdditionalRestrictions>
+        <AdditionalIsCoupon>0</AdditionalIsCoupon>
+        <AdditionalGiftCount>0</AdditionalGiftCount>
+        <AdditionalIsTotal>0</AdditionalIsTotal>
+        <AdditionalIsActive>1</AdditionalIsActive>
+      </AdditionalRestrictions>
+      <Clubs>
+        <ClubId>0</ClubId>
+      </Clubs>
+    </Promotion>
+    <Promotion>
+      <PromotionId>1025685</PromotionId>
+      <AllowMultipleDiscounts>1</AllowMultipleDiscounts>
+      <PromotionDescription>קטיף-תפוזים ב 5.90 ש"ח לק"ג</PromotionDescription>
+      <PromotionUpdateDate>2016-02-21 07:40</PromotionUpdateDate>
+      <PromotionStartDate>2016-02-16</PromotionStartDate>
+      <PromotionStartHour>00:00</PromotionStartHour>
+      <PromotionEndDate>2016-02-28</PromotionEndDate>
+      <PromotionEndHour>23:59</PromotionEndHour>
+      <IsWeightedPromo>1</IsWeightedPromo>
+      <MinQty>0.001</MinQty>
+      <RewardType>1</RewardType>
+      <DiscountedPrice>5.90</DiscountedPrice>
+      <MinNoOfItemOfered>10</MinNoOfItemOfered>
+      <Remark> מחיר המבצע הינו המחיר לק"ג </Remark>
+      <PromotionItems Count="2">
+        <Item>
+          <ItemCode>7290000964508</ItemCode>
+          <ItemType>0</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+        <Item>
+          <ItemCode>7290000964300</ItemCode>
+          <ItemType>0</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+      </PromotionItems>
+      <AdditionalRestrictions>
+        <AdditionalIsCoupon>0</AdditionalIsCoupon>
+        <AdditionalGiftCount>0</AdditionalGiftCount>
+        <AdditionalIsTotal>0</AdditionalIsTotal>
+        <AdditionalIsActive>1</AdditionalIsActive>
+      </AdditionalRestrictions>
+      <Clubs>
+        <ClubId>0</ClubId>
+      </Clubs>
+    </Promotion>
+    <Promotion>
+      <PromotionId>1027468</PromotionId>
+      <AllowMultipleDiscounts>1</AllowMultipleDiscounts>
+      <PromotionDescription>3ב 11.10 +פקדון בירה ברואר 500 מ"ל</PromotionDescription>
+      <PromotionUpdateDate>2016-02-21 08:00</PromotionUpdateDate>
+      <PromotionStartDate>2016-02-19</PromotionStartDate>
+      <PromotionStartHour>00:00</PromotionStartHour>
+      <PromotionEndDate>2016-02-29</PromotionEndDate>
+      <PromotionEndHour>23:59</PromotionEndHour>
+      <IsWeightedPromo>0</IsWeightedPromo>
+      <MinQty>3.000</MinQty>
+      <RewardType>1</RewardType>
+      <DiscountedPrice>12.00</DiscountedPrice>
+      <MinNoOfItemOfered>10</MinNoOfItemOfered>
+      <PromotionItems Count="1">
+        <Item>
+          <ItemCode>5902188460605</ItemCode>
+          <ItemType>1</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+      </PromotionItems>
+      <AdditionalRestrictions>
+        <AdditionalIsCoupon>0</AdditionalIsCoupon>
+        <AdditionalGiftCount>0</AdditionalGiftCount>
+        <AdditionalIsTotal>0</AdditionalIsTotal>
+        <AdditionalIsActive>1</AdditionalIsActive>
+      </AdditionalRestrictions>
+      <Clubs>
+        <ClubId>0</ClubId>
+      </Clubs>
+    </Promotion>
+    <Promotion>
+      <PromotionId>1027646</PromotionId>
+      <AllowMultipleDiscounts>1</AllowMultipleDiscounts>
+      <PromotionDescription>קטיף-תות שדה  2 יחידות ב 26 ש"ח</PromotionDescription>
+      <PromotionUpdateDate>2016-02-21 13:20</PromotionUpdateDate>
+      <PromotionStartDate>2016-02-21</PromotionStartDate>
+      <PromotionStartHour>00:00</PromotionStartHour>
+      <PromotionEndDate>2016-02-27</PromotionEndDate>
+      <PromotionEndHour>23:59</PromotionEndHour>
+      <IsWeightedPromo>0</IsWeightedPromo>
+      <MinQty>2.000</MinQty>
+      <RewardType>10</RewardType>
+      <DiscountedPrice>26.00</DiscountedPrice>
+      <MinNoOfItemOfered>10</MinNoOfItemOfered>
+      <PromotionItems Count="2">
+        <Item>
+          <ItemCode>7290000966779</ItemCode>
+          <ItemType>0</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+        <Item>
+          <ItemCode>7296073226512</ItemCode>
+          <ItemType>1</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+      </PromotionItems>
+      <AdditionalRestrictions>
+        <AdditionalIsCoupon>0</AdditionalIsCoupon>
+        <AdditionalGiftCount>0</AdditionalGiftCount>
+        <AdditionalIsTotal>0</AdditionalIsTotal>
+        <AdditionalIsActive>1</AdditionalIsActive>
+      </AdditionalRestrictions>
+      <Clubs>
+        <ClubId>0</ClubId>
+      </Clubs>
+    </Promotion>
+    <Promotion>
+      <PromotionId>994455</PromotionId>
+      <AllowMultipleDiscounts>1</AllowMultipleDiscounts>
+      <PromotionDescription>קטיף-שום-מארז  2 יחידות ב 14.00 ש"ח</PromotionDescription>
+      <PromotionUpdateDate>2016-02-21 07:40</PromotionUpdateDate>
+      <PromotionStartDate>2016-01-04</PromotionStartDate>
+      <PromotionStartHour>00:00</PromotionStartHour>
+      <PromotionEndDate>2016-02-28</PromotionEndDate>
+      <PromotionEndHour>23:59</PromotionEndHour>
+      <IsWeightedPromo>0</IsWeightedPromo>
+      <MinQty>2.000</MinQty>
+      <RewardType>10</RewardType>
+      <DiscountedPrice>14.00</DiscountedPrice>
+      <MinNoOfItemOfered>10</MinNoOfItemOfered>
+      <PromotionItems Count="4">
+        <Item>
+          <ItemCode>6935325410118</ItemCode>
+          <ItemType>1</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+        <Item>
+          <ItemCode>7290000993362</ItemCode>
+          <ItemType>0</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+        <Item>
+          <ItemCode>7290000000787</ItemCode>
+          <ItemType>0</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+        <Item>
+          <ItemCode>7290000000411</ItemCode>
+          <ItemType>0</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+      </PromotionItems>
+      <AdditionalRestrictions>
+        <AdditionalIsCoupon>0</AdditionalIsCoupon>
+        <AdditionalGiftCount>0</AdditionalGiftCount>
+        <AdditionalIsTotal>0</AdditionalIsTotal>
+        <AdditionalIsActive>1</AdditionalIsActive>
+      </AdditionalRestrictions>
+      <Clubs>
+        <ClubId>0</ClubId>
+      </Clubs>
+    </Promotion>
+    <Promotion>
+      <PromotionId>994459</PromotionId>
+      <AllowMultipleDiscounts>1</AllowMultipleDiscounts>
+      <PromotionDescription>קטיף-קלמנטינות  ב 5.90 ש"ח לק"ג</PromotionDescription>
+      <PromotionUpdateDate>2016-02-21 07:40</PromotionUpdateDate>
+      <PromotionStartDate>2016-01-04</PromotionStartDate>
+      <PromotionStartHour>00:00</PromotionStartHour>
+      <PromotionEndDate>2016-02-28</PromotionEndDate>
+      <PromotionEndHour>23:59</PromotionEndHour>
+      <IsWeightedPromo>1</IsWeightedPromo>
+      <MinQty>0.001</MinQty>
+      <RewardType>1</RewardType>
+      <DiscountedPrice>5.90</DiscountedPrice>
+      <MinNoOfItemOfered>10</MinNoOfItemOfered>
+      <Remark> מחיר המבצע הינו המחיר לק"ג </Remark>
+      <PromotionItems Count="3">
+        <Item>
+          <ItemCode>7290000964614</ItemCode>
+          <ItemType>0</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+        <Item>
+          <ItemCode>7290000964584</ItemCode>
+          <ItemType>0</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+        <Item>
+          <ItemCode>7290000964560</ItemCode>
+          <ItemType>0</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+      </PromotionItems>
+      <AdditionalRestrictions>
+        <AdditionalIsCoupon>0</AdditionalIsCoupon>
+        <AdditionalGiftCount>0</AdditionalGiftCount>
+        <AdditionalIsTotal>0</AdditionalIsTotal>
+        <AdditionalIsActive>1</AdditionalIsActive>
+      </AdditionalRestrictions>
+      <Clubs>
+        <ClubId>0</ClubId>
+      </Clubs>
+    </Promotion>
+    <Promotion>
+      <PromotionId>994460</PromotionId>
+      <AllowMultipleDiscounts>1</AllowMultipleDiscounts>
+      <PromotionDescription>קטיף-אשכולית לבנה ב 5.90 ש"ח לק"ג</PromotionDescription>
+      <PromotionUpdateDate>2016-02-21 07:40</PromotionUpdateDate>
+      <PromotionStartDate>2016-01-04</PromotionStartDate>
+      <PromotionStartHour>00:00</PromotionStartHour>
+      <PromotionEndDate>2016-02-28</PromotionEndDate>
+      <PromotionEndHour>23:59</PromotionEndHour>
+      <IsWeightedPromo>1</IsWeightedPromo>
+      <MinQty>0.001</MinQty>
+      <RewardType>1</RewardType>
+      <DiscountedPrice>5.90</DiscountedPrice>
+      <MinNoOfItemOfered>10</MinNoOfItemOfered>
+      <Remark> מחיר המבצע הינו המחיר לק"ג </Remark>
+      <PromotionItems Count="1">
+        <Item>
+          <ItemCode>7290000964379</ItemCode>
+          <ItemType>0</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+      </PromotionItems>
+      <AdditionalRestrictions>
+        <AdditionalIsCoupon>0</AdditionalIsCoupon>
+        <AdditionalGiftCount>0</AdditionalGiftCount>
+        <AdditionalIsTotal>0</AdditionalIsTotal>
+        <AdditionalIsActive>1</AdditionalIsActive>
+      </AdditionalRestrictions>
+      <Clubs>
+        <ClubId>0</ClubId>
+      </Clubs>
+    </Promotion>
+    <Promotion>
+      <PromotionId>994461</PromotionId>
+      <AllowMultipleDiscounts>1</AllowMultipleDiscounts>
+      <PromotionDescription>קטיף-אשכולית אדומה ב 5.90 ש"ח לק"ג</PromotionDescription>
+      <PromotionUpdateDate>2016-02-21 07:40</PromotionUpdateDate>
+      <PromotionStartDate>2016-01-04</PromotionStartDate>
+      <PromotionStartHour>00:00</PromotionStartHour>
+      <PromotionEndDate>2016-02-28</PromotionEndDate>
+      <PromotionEndHour>23:59</PromotionEndHour>
+      <IsWeightedPromo>1</IsWeightedPromo>
+      <MinQty>0.001</MinQty>
+      <RewardType>1</RewardType>
+      <DiscountedPrice>5.90</DiscountedPrice>
+      <MinNoOfItemOfered>10</MinNoOfItemOfered>
+      <Remark> מחיר המבצע הינו המחיר לק"ג </Remark>
+      <PromotionItems Count="1">
+        <Item>
+          <ItemCode>7290000964393</ItemCode>
+          <ItemType>0</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+      </PromotionItems>
+      <AdditionalRestrictions>
+        <AdditionalIsCoupon>0</AdditionalIsCoupon>
+        <AdditionalGiftCount>0</AdditionalGiftCount>
+        <AdditionalIsTotal>0</AdditionalIsTotal>
+        <AdditionalIsActive>1</AdditionalIsActive>
+      </AdditionalRestrictions>
+      <Clubs>
+        <ClubId>0</ClubId>
+      </Clubs>
+    </Promotion>
+    <Promotion>
+      <PromotionId>994462</PromotionId>
+      <AllowMultipleDiscounts>1</AllowMultipleDiscounts>
+      <PromotionDescription>קטיף-פומלית ב 5.90 ש"ח לק"ג</PromotionDescription>
+      <PromotionUpdateDate>2016-02-21 07:40</PromotionUpdateDate>
+      <PromotionStartDate>2016-01-04</PromotionStartDate>
+      <PromotionStartHour>00:00</PromotionStartHour>
+      <PromotionEndDate>2016-02-28</PromotionEndDate>
+      <PromotionEndHour>23:59</PromotionEndHour>
+      <IsWeightedPromo>1</IsWeightedPromo>
+      <MinQty>0.001</MinQty>
+      <RewardType>1</RewardType>
+      <DiscountedPrice>5.90</DiscountedPrice>
+      <MinNoOfItemOfered>10</MinNoOfItemOfered>
+      <Remark> מחיר המבצע הינו המחיר לק"ג </Remark>
+      <PromotionItems Count="1">
+        <Item>
+          <ItemCode>7290000964461</ItemCode>
+          <ItemType>0</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+      </PromotionItems>
+      <AdditionalRestrictions>
+        <AdditionalIsCoupon>0</AdditionalIsCoupon>
+        <AdditionalGiftCount>0</AdditionalGiftCount>
+        <AdditionalIsTotal>0</AdditionalIsTotal>
+        <AdditionalIsActive>1</AdditionalIsActive>
+      </AdditionalRestrictions>
+      <Clubs>
+        <ClubId>0</ClubId>
+      </Clubs>
+    </Promotion>
+    <Promotion>
+      <PromotionId>998789</PromotionId>
+      <AllowMultipleDiscounts>1</AllowMultipleDiscounts>
+      <PromotionDescription>קטיף-חסה ערבית  ב 4.90 ש"ח ליחידה</PromotionDescription>
+      <PromotionUpdateDate>2016-02-21 07:40</PromotionUpdateDate>
+      <PromotionStartDate>2016-01-11</PromotionStartDate>
+      <PromotionStartHour>00:00</PromotionStartHour>
+      <PromotionEndDate>2016-02-28</PromotionEndDate>
+      <PromotionEndHour>23:59</PromotionEndHour>
+      <IsWeightedPromo>0</IsWeightedPromo>
+      <MinQty>1.000</MinQty>
+      <RewardType>1</RewardType>
+      <DiscountedPrice>4.90</DiscountedPrice>
+      <MinNoOfItemOfered>10</MinNoOfItemOfered>
+      <PromotionItems Count="1">
+        <Item>
+          <ItemCode>7290000000282</ItemCode>
+          <ItemType>0</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+      </PromotionItems>
+      <AdditionalRestrictions>
+        <AdditionalIsCoupon>0</AdditionalIsCoupon>
+        <AdditionalGiftCount>0</AdditionalGiftCount>
+        <AdditionalIsTotal>0</AdditionalIsTotal>
+        <AdditionalIsActive>1</AdditionalIsActive>
+      </AdditionalRestrictions>
+      <Clubs>
+        <ClubId>0</ClubId>
+      </Clubs>
+    </Promotion>
+  </Promotions>
+</root>
