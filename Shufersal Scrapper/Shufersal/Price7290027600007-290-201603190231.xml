@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ChainId>7290027600007</ChainId>
+  <SubChainId>002</SubChainId>
+  <StoreId>290</StoreId>
+  <BikoretNo>1</BikoretNo>
+  <DllVerNo>8.0.1.3</DllVerNo>
+  <Items Count="2">
+    <Item>
+      <PriceUpdateDate>2016-03-18 07:14</PriceUpdateDate>
+      <ItemCode>7290012475528</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>צנימים אורגני 220 גרם</ItemName>
+      <ManufacturerName>זיטו ז.ד.</ManufacturerName>
+      <ManufactureCountry>SI</ManufactureCountry>
+      <ManufacturerItemDescription>צנימים</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>220.00</Quantity>
+      <bIsWeighted>0</bIsWeighted>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>7.90</ItemPrice>
+      <UnitOfMeasurePrice>3.59</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+    </Item>
+    <Item>
+      <PriceUpdateDate>2016-03-18 07:14</PriceUpdateDate>
+      <ItemCode>7290012475535</ItemCode>
+      <ItemType>1</ItemType>
+      <ItemName>צנימים אורגני קמח מלא220</ItemName>
+      <ManufacturerName>זיטו ז.ד.</ManufacturerName>
+      <ManufactureCountry>SI</ManufactureCountry>
+      <ManufacturerItemDescription>צנימים</ManufacturerItemDescription>
+      <UnitQty>גרמים</UnitQty>
+      <Quantity>220.00</Quantity>
+      <bIsWeighted>0</bIsWeighted>
+      <UnitOfMeasure>100 גרם</UnitOfMeasure>
+      <QtyInPackage>1</QtyInPackage>
+      <ItemPrice>7.90</ItemPrice>
+      <UnitOfMeasurePrice>3.59</UnitOfMeasurePrice>
+      <AllowDiscount>1</AllowDiscount>
+      <ItemStatus>1</ItemStatus>
+    </Item>
+  </Items>
+</root>
