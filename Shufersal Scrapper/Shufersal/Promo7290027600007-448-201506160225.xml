@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ChainId>7290027600007</ChainId>
+  <SubChainId>907</SubChainId>
+  <StoreId>448</StoreId>
+  <BikoretNo>8</BikoretNo>
+  <DllVerNo>7.9.9.8</DllVerNo>
+  <Promotions Count="1">
+    <Promotion>
+      <PromotionId>497705</PromotionId>
+      <AllowMultipleDiscounts>1</AllowMultipleDiscounts>
+      <PromotionDescription>ש.ר ופלים כרמית 7 ב10</PromotionDescription>
+      <PromotionUpdateDate>2015-06-15 16:05</PromotionUpdateDate>
+      <PromotionStartDate>2015-06-15</PromotionStartDate>
+      <PromotionStartHour>00:00</PromotionStartHour>
+      <PromotionEndDate>2015-06-16</PromotionEndDate>
+      <PromotionEndHour>23:59</PromotionEndHour>
+      <MinQty>7.000</MinQty>
+      <RewardType>10</RewardType>
+      <DiscountedPrice>10.00</DiscountedPrice>
+      <MinNoOfItemOfered>10</MinNoOfItemOfered>
+      <PromotionItems Count="3">
+        <Item>
+          <ItemCode>7290015139182</ItemCode>
+          <ItemType>1</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+        <Item>
+          <ItemCode>7290015139175</ItemCode>
+          <ItemType>1</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+        <Item>
+          <ItemCode>7290015139168</ItemCode>
+          <ItemType>1</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+      </PromotionItems>
+      <AdditionalRestrictions>
+        <AdditionalIsCoupon>0</AdditionalIsCoupon>
+        <AdditionalGiftCount>0</AdditionalGiftCount>
+        <AdditionalIsTotal>0</AdditionalIsTotal>
+        <AdditionalIsActive>1</AdditionalIsActive>
+        <AdditionalMinBasketAmount>0.00</AdditionalMinBasketAmount>
+      </AdditionalRestrictions>
+      <Clubs>
+        <ClubId>0</ClubId>
+      </Clubs>
+    </Promotion>
+  </Promotions>
+</root>

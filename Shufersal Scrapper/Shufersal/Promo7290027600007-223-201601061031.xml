@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ChainId>7290027600007</ChainId>
+  <SubChainId>007</SubChainId>
+  <StoreId>223</StoreId>
+  <BikoretNo>9</BikoretNo>
+  <DllVerNo>8.0.1.3</DllVerNo>
+  <Promotions Count="4">
+    <Promotion>
+      <PromotionId>787422</PromotionId>
+      <AllowMultipleDiscounts>1</AllowMultipleDiscounts>
+      <PromotionDescription>19ש"ח סט קופסאות פלסטיק</PromotionDescription>
+      <PromotionUpdateDate>2016-01-06 08:30</PromotionUpdateDate>
+      <PromotionStartDate>2015-02-10</PromotionStartDate>
+      <PromotionStartHour>00:00</PromotionStartHour>
+      <PromotionEndDate>2016-01-25</PromotionEndDate>
+      <PromotionEndHour>23:59</PromotionEndHour>
+      <IsWeightedPromo>0</IsWeightedPromo>
+      <MinQty>1.000</MinQty>
+      <RewardType>1</RewardType>
+      <DiscountedPrice>19.00</DiscountedPrice>
+      <MinNoOfItemOfered>10</MinNoOfItemOfered>
+      <PromotionItems Count="2">
+        <Item>
+          <ItemCode>7290008843874</ItemCode>
+          <ItemType>1</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+        <Item>
+          <ItemCode>7290106431539</ItemCode>
+          <ItemType>1</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+      </PromotionItems>
+      <AdditionalRestrictions>
+        <AdditionalIsCoupon>0</AdditionalIsCoupon>
+        <AdditionalGiftCount>0</AdditionalGiftCount>
+        <AdditionalIsTotal>0</AdditionalIsTotal>
+        <AdditionalIsActive>0</AdditionalIsActive>
+      </AdditionalRestrictions>
+      <Clubs>
+        <ClubId>0</ClubId>
+      </Clubs>
+    </Promotion>
+    <Promotion>
+      <PromotionId>905373</PromotionId>
+      <AllowMultipleDiscounts>1</AllowMultipleDiscounts>
+      <PromotionDescription>10ש"ח סיר למיקרוגל 1ליטר2/ליטר</PromotionDescription>
+      <PromotionUpdateDate>2016-01-06 08:30</PromotionUpdateDate>
+      <PromotionStartDate>2015-08-04</PromotionStartDate>
+      <PromotionStartHour>00:00</PromotionStartHour>
+      <PromotionEndDate>2016-01-25</PromotionEndDate>
+      <PromotionEndHour>23:59</PromotionEndHour>
+      <IsWeightedPromo>0</IsWeightedPromo>
+      <MinQty>1.000</MinQty>
+      <RewardType>1</RewardType>
+      <DiscountedPrice>10.00</DiscountedPrice>
+      <MinNoOfItemOfered>10</MinNoOfItemOfered>
+      <PromotionItems Count="3">
+        <Item>
+          <ItemCode>7290005481987</ItemCode>
+          <ItemType>1</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+        <Item>
+          <ItemCode>7290012888373</ItemCode>
+          <ItemType>1</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+        <Item>
+          <ItemCode>7290005481963</ItemCode>
+          <ItemType>1</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+      </PromotionItems>
+      <AdditionalRestrictions>
+        <AdditionalIsCoupon>0</AdditionalIsCoupon>
+        <AdditionalGiftCount>0</AdditionalGiftCount>
+        <AdditionalIsTotal>0</AdditionalIsTotal>
+        <AdditionalIsActive>0</AdditionalIsActive>
+      </AdditionalRestrictions>
+      <Clubs>
+        <ClubId>0</ClubId>
+      </Clubs>
+    </Promotion>
+    <Promotion>
+      <PromotionId>963511</PromotionId>
+      <AllowMultipleDiscounts>1</AllowMultipleDiscounts>
+      <PromotionDescription>49ש"ח מארז קנקן לתה זכוכית4+ כוסות</PromotionDescription>
+      <PromotionUpdateDate>2016-01-06 08:30</PromotionUpdateDate>
+      <PromotionStartDate>2015-12-01</PromotionStartDate>
+      <PromotionStartHour>00:00</PromotionStartHour>
+      <PromotionEndDate>2016-01-25</PromotionEndDate>
+      <PromotionEndHour>23:59</PromotionEndHour>
+      <IsWeightedPromo>0</IsWeightedPromo>
+      <MinQty>1.000</MinQty>
+      <RewardType>1</RewardType>
+      <DiscountedPrice>49.00</DiscountedPrice>
+      <MinNoOfItemOfered>10</MinNoOfItemOfered>
+      <PromotionItems Count="1">
+        <Item>
+          <ItemCode>7296073210412</ItemCode>
+          <ItemType>1</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+      </PromotionItems>
+      <AdditionalRestrictions>
+        <AdditionalIsCoupon>0</AdditionalIsCoupon>
+        <AdditionalGiftCount>0</AdditionalGiftCount>
+        <AdditionalIsTotal>0</AdditionalIsTotal>
+        <AdditionalIsActive>0</AdditionalIsActive>
+      </AdditionalRestrictions>
+      <Clubs>
+        <ClubId>0</ClubId>
+      </Clubs>
+    </Promotion>
+    <Promotion>
+      <PromotionId>988832</PromotionId>
+      <AllowMultipleDiscounts>1</AllowMultipleDiscounts>
+      <PromotionDescription>קטיף-קליפות הדר בשוקולד200גשקדיה ב 12ש"ח</PromotionDescription>
+      <PromotionUpdateDate>2016-01-06 08:40</PromotionUpdateDate>
+      <PromotionStartDate>2015-12-29</PromotionStartDate>
+      <PromotionStartHour>00:00</PromotionStartHour>
+      <PromotionEndDate>2016-01-25</PromotionEndDate>
+      <PromotionEndHour>23:59</PromotionEndHour>
+      <IsWeightedPromo>0</IsWeightedPromo>
+      <MinQty>1.000</MinQty>
+      <RewardType>1</RewardType>
+      <DiscountedPrice>12.00</DiscountedPrice>
+      <MinNoOfItemOfered>10</MinNoOfItemOfered>
+      <PromotionItems Count="1">
+        <Item>
+          <ItemCode>7290000267500</ItemCode>
+          <ItemType>1</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+      </PromotionItems>
+      <AdditionalRestrictions>
+        <AdditionalIsCoupon>0</AdditionalIsCoupon>
+        <AdditionalGiftCount>0</AdditionalGiftCount>
+        <AdditionalIsTotal>0</AdditionalIsTotal>
+        <AdditionalIsActive>0</AdditionalIsActive>
+      </AdditionalRestrictions>
+      <Clubs>
+        <ClubId>0</ClubId>
+      </Clubs>
+    </Promotion>
+  </Promotions>
+</root>

@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ChainId>7290027600007</ChainId>
+  <SubChainId>002</SubChainId>
+  <StoreId>256</StoreId>
+  <BikoretNo>7</BikoretNo>
+  <DllVerNo>8.0.1.0</DllVerNo>
+  <Promotions Count="4">
+    <Promotion>
+      <PromotionId>891234</PromotionId>
+      <AllowMultipleDiscounts>1</AllowMultipleDiscounts>
+      <PromotionDescription>BUZZ 1+3יינות מבעבעים 750 מ"ל</PromotionDescription>
+      <PromotionUpdateDate>2015-07-29 13:00</PromotionUpdateDate>
+      <PromotionStartDate>2015-07-07</PromotionStartDate>
+      <PromotionStartHour>00:00</PromotionStartHour>
+      <PromotionEndDate>2015-08-10</PromotionEndDate>
+      <PromotionEndHour>23:59</PromotionEndHour>
+      <IsWheightedPromo>0</IsWheightedPromo>
+      <MinQty>4.000</MinQty>
+      <DiscountType>0</DiscountType>
+      <RewardType>7</RewardType>
+      <DiscountRate>10000</DiscountRate>
+      <MinNoOfItemOfered>10</MinNoOfItemOfered>
+      <PromotionItems Count="3">
+        <Item>
+          <ItemCode>7290014256620</ItemCode>
+          <ItemType>1</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+        <Item>
+          <ItemCode>7290014256651</ItemCode>
+          <ItemType>1</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+        <Item>
+          <ItemCode>7290014256637</ItemCode>
+          <ItemType>1</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+      </PromotionItems>
+      <AdditionalRestrictions>
+        <AdditionalIsCoupon>0</AdditionalIsCoupon>
+        <AdditionalGiftCount>0</AdditionalGiftCount>
+        <AdditionalIsTotal>0</AdditionalIsTotal>
+        <AdditionalIsActive>1</AdditionalIsActive>
+      </AdditionalRestrictions>
+      <Clubs>
+        <ClubId>0</ClubId>
+      </Clubs>
+    </Promotion>
+    <Promotion>
+      <PromotionId>891235</PromotionId>
+      <AllowMultipleDiscounts>1</AllowMultipleDiscounts>
+      <PromotionDescription>1+1גב.מותכת ניו-יורק4*25 גר</PromotionDescription>
+      <PromotionUpdateDate>2015-07-29 13:00</PromotionUpdateDate>
+      <PromotionStartDate>2015-07-07</PromotionStartDate>
+      <PromotionStartHour>00:00</PromotionStartHour>
+      <PromotionEndDate>2015-10-05</PromotionEndDate>
+      <PromotionEndHour>23:59</PromotionEndHour>
+      <IsWheightedPromo>0</IsWheightedPromo>
+      <MinQty>2.000</MinQty>
+      <DiscountType>0</DiscountType>
+      <RewardType>7</RewardType>
+      <DiscountRate>10000</DiscountRate>
+      <MinNoOfItemOfered>10</MinNoOfItemOfered>
+      <PromotionItems Count="1">
+        <Item>
+          <ItemCode>7290002868446</ItemCode>
+          <ItemType>1</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+      </PromotionItems>
+      <AdditionalRestrictions>
+        <AdditionalIsCoupon>0</AdditionalIsCoupon>
+        <AdditionalGiftCount>0</AdditionalGiftCount>
+        <AdditionalIsTotal>0</AdditionalIsTotal>
+        <AdditionalIsActive>1</AdditionalIsActive>
+      </AdditionalRestrictions>
+      <Clubs>
+        <ClubId>0</ClubId>
+      </Clubs>
+    </Promotion>
+    <Promotion>
+      <PromotionId>891242</PromotionId>
+      <AllowMultipleDiscounts>1</AllowMultipleDiscounts>
+      <PromotionDescription>1+3סידרת טבע 750 מ"ל</PromotionDescription>
+      <PromotionUpdateDate>2015-07-29 13:00</PromotionUpdateDate>
+      <PromotionStartDate>2015-07-07</PromotionStartDate>
+      <PromotionStartHour>00:00</PromotionStartHour>
+      <PromotionEndDate>2015-08-10</PromotionEndDate>
+      <PromotionEndHour>23:59</PromotionEndHour>
+      <IsWheightedPromo>0</IsWheightedPromo>
+      <MinQty>4.000</MinQty>
+      <DiscountType>0</DiscountType>
+      <RewardType>7</RewardType>
+      <DiscountRate>10000</DiscountRate>
+      <MinNoOfItemOfered>10</MinNoOfItemOfered>
+      <PromotionItems Count="5">
+        <Item>
+          <ItemCode>7290008807050</ItemCode>
+          <ItemType>1</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+        <Item>
+          <ItemCode>7290008807777</ItemCode>
+          <ItemType>1</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+        <Item>
+          <ItemCode>7290008807012</ItemCode>
+          <ItemType>1</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+        <Item>
+          <ItemCode>7290008807067</ItemCode>
+          <ItemType>1</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+        <Item>
+          <ItemCode>7290008807029</ItemCode>
+          <ItemType>1</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+      </PromotionItems>
+      <AdditionalRestrictions>
+        <AdditionalIsCoupon>0</AdditionalIsCoupon>
+        <AdditionalGiftCount>0</AdditionalGiftCount>
+        <AdditionalIsTotal>0</AdditionalIsTotal>
+        <AdditionalIsActive>1</AdditionalIsActive>
+      </AdditionalRestrictions>
+      <Clubs>
+        <ClubId>0</ClubId>
+      </Clubs>
+    </Promotion>
+    <Promotion>
+      <PromotionId>905824</PromotionId>
+      <AllowMultipleDiscounts>1</AllowMultipleDiscounts>
+      <PromotionDescription>קטיף-אבטיח אישי ב 0.90 ש"ח לק"ג</PromotionDescription>
+      <PromotionUpdateDate>2015-07-29 08:40</PromotionUpdateDate>
+      <PromotionStartDate>2015-07-29</PromotionStartDate>
+      <PromotionStartHour>00:00</PromotionStartHour>
+      <PromotionEndDate>2015-08-02</PromotionEndDate>
+      <PromotionEndHour>23:59</PromotionEndHour>
+      <IsWheightedPromo>1</IsWheightedPromo>
+      <MinQty>0.001</MinQty>
+      <RewardType>1</RewardType>
+      <DiscountedPrice>0.90</DiscountedPrice>
+      <MinNoOfItemOfered>10</MinNoOfItemOfered>
+      <Remark> מחיר המבצע הינו המחיר לק"ג </Remark>
+      <PromotionItems Count="2">
+        <Item>
+          <ItemCode>7290000965048</ItemCode>
+          <ItemType>0</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+        <Item>
+          <ItemCode>7290000984629</ItemCode>
+          <ItemType>0</ItemType>
+          <IsGiftItem>0</IsGiftItem>
+        </Item>
+      </PromotionItems>
+      <AdditionalRestrictions>
+        <AdditionalIsCoupon>0</AdditionalIsCoupon>
+        <AdditionalGiftCount>0</AdditionalGiftCount>
+        <AdditionalIsTotal>0</AdditionalIsTotal>
+        <AdditionalIsActive>1</AdditionalIsActive>
+      </AdditionalRestrictions>
+      <Clubs>
+        <ClubId>0</ClubId>
+      </Clubs>
+    </Promotion>
+  </Promotions>
+</root>
