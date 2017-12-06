@@ -1,1 +1,1 @@
-# Recipy
+# Simple Shufersal Scrapper
